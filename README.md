@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StuntPlayZYT
-- 👀 I’m interested in cubing, Rocket League, Minecraft, Digital Art
+- 👀 I’m interested in cubing, Rocket League, Minecraft, Digital Art, Jojo's Bizarre Adventure, Archiving stuff
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on i dunno
 - 📫 How to reach me [Discord StuntPlayZYT#7123] [https://stuntplayzyt.newgrounds.com]
