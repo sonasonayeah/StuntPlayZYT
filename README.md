@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @StuntPlayZYT
 - 👀 I’m interested in cubing, Rocket League, Minecraft, Digital Art, Graphic Design, Archiving stuff
-- 🌱 I’m currently learning HTML, PHP, SQL, and CSS.
+- 🌱 I’m currently learning how to make discord bots
 - 💞️ I’m looking to collaborate on i dunno
-- 📫 How to reach me [Discord StuntPlayZYT#7123] [https://stuntplayzyt.newgrounds.com]
+- 📫 How to reach me -> Dont
 
 <!---
 StuntPlayZYT/StuntPlayZYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
